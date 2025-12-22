@@ -13,5 +13,5 @@ Simple Interest = Principal × Rate × Time
 - Rate of interest
 - Time period (in years)
 
-## Output
+## Output...
 - The calculated simple interest value
